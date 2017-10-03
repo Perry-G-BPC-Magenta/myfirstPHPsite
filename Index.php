@@ -4,7 +4,7 @@
 
 <?php
 
-Echo "Investigate at least 4 languages for Web server Scripting !";
+Echo "Investigate at least 4 languages for Web server Scripting!";
   
 
 //this is me testing this site 
